@@ -78,7 +78,7 @@ html{
 
 #home::before {
   content: "";
-  background: url('../h3.jpg') no-repeat center center / cover;
+  background: url('/img.jpg/h3.jpg') no-repeat center center / cover;
   height: 642px;
   width: 100%;
   top: 0px;
@@ -132,11 +132,7 @@ html{
 
 }
 
-#services .box p {}
 
-#services {}
-
-#services {}
 
 /*clints section*/
 #clients-section {
@@ -146,7 +142,7 @@ html{
 #clients-section::before {
   content: "";
   position: absolute;
-  background: url('../h2.jpg');
+  background: url('/img.jpg/h2.jpg');
   width: 100%;
   height: 100%;
   z-index: -1;
@@ -175,7 +171,7 @@ html{
 #contact::before {
   content: "";
   position: absolute;
-  background: url('../h1.jpg')no-repeat center center/cover;
+  background: url('/img.jpg/h1.jpg')no-repeat center center/cover;
   width: 100%;
   height: 100%;
   z-index: -1;
